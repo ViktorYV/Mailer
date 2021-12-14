@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.131,D:\DONNTU\S5\students-gd\My\Mailer\Unit1.dfm=D:\DONNTU\S5\students-gd\My\Mailer\StartForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.971,D:\DONNTU\S5\students-gd\My\Mailer\Mailer.dproj=C:\Users\Viktor\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.131,D:\DONNTU\S5\students-gd\My\Mailer\Unit1.pas=D:\DONNTU\S5\students-gd\My\Mailer\StartForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.507,D:\DONNTU\S5\students-gd\My\Log.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.868,=D:\DONNTU\S5\students-gd\My\Log.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,D:\DONNTU\S5\students-gd\My\Mailer\Unit1.dfm=D:\DONNTU\S5\students-gd\My\Mailer\SettingsFrm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.481,=D:\DONNTU\S5\students-gd\My\Mailer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.060,=D:\DONNTU\S5\students-gd\My\Mailer\Log.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,D:\DONNTU\S5\students-gd\My\Mailer\MainForm.dfm=C:\Users\Viktor\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.319,=C:\Users\Viktor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.695,=D:\DONNTU\S5\students-gd\My\Mailer\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.542,D:\DONNTU\S5\students-gd\My\Mailer\Unit1.pas=D:\DONNTU\S5\students-gd\My\Mailer\SettingsFrm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.431,D:\DONNTU\S5\students-gd\My\Mailer\MainForm.pas=C:\Users\Viktor\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
